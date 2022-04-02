@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "html": "html",
+        "GCD.C": "cpp",
+        "RandomNo.C": "cpp",
+        "RandGen.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp",
+        "iostream": "cpp",
+        "GCD_Jospeph.C": "cpp",
+        "random": "c",
+        "ostream": "cpp",
+        "thread": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cmake.configureOnOpen": true
+}

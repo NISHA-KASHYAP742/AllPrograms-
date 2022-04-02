@@ -1,0 +1,4 @@
+Open/close sideBar (ctrl+b)
+Add Cursor above and below (ctrl+alt+up/down arrow)
+Add multiple lines (alt+click)
+Shift the whole line uo/down(alt+up/down arrow key)
